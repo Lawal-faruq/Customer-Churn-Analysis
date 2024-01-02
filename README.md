@@ -30,4 +30,10 @@ So, after making the first row as header it is discovered that the datatypes or 
 
 3.)	So, for the analysis, I will be needing to create additional columns to aid my analysis, the columns are shown below:
 
+![image5](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/70816dff-ea09-4a07-b726-c970f5702cb9)
+
+**Data Analysis**
+
+After doing all the necessary processing, the next thing is to close and apply my steps, then move into the analysis process proper. The next thing is to write DAX formula for my analysis.
+
 
