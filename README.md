@@ -18,4 +18,5 @@ After taking a glance at the data, it is now time to import the dataset into the
 
 1.)	The column names were on the first row, so I need to make the first row as headers.
 
+![Image2](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/08b603e1-0eba-4244-8ffe-882611600a64)
 
