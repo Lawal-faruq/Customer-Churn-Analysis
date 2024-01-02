@@ -23,5 +23,11 @@ After taking a glance at the data, it is now time to import the dataset into the
 ![image3](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/8cebbde9-0cbf-4984-9b40-23056070ce5b)
 
 So, after making the first row as header it is discovered that the datatypes or not correct, so I need to change each columns to the appropriate datatypes. 
+
 2.)	I changed the columns to their correct datatype.
+
+![image4](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/6ea491bd-6d7b-4712-ae56-e4c170d9cc84)
+
+3.)	So, for the analysis, I will be needing to create additional columns to aid my analysis, the columns are shown below:
+
 
