@@ -58,5 +58,5 @@ For Customer Churned Analysis
 
 So the insights and recommendation are shown in the dashboard below:
 
-
+![image7](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/3fc95b96-e5ad-4e7a-8446-8ed65c0c174a)
 
