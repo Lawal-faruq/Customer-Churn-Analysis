@@ -36,4 +36,27 @@ So, after making the first row as header it is discovered that the datatypes or 
 
 After doing all the necessary processing, the next thing is to close and apply my steps, then move into the analysis process proper. The next thing is to write DAX formula for my analysis.
 
+![image6](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/2166c3c8-c17a-4beb-bc17-1c12ea265733)
+
+So, after everything is set and ready to go, I can now proceed to gain the following insight from the data and provide recommendations for the stakeholders. The insights are as follows:
+
+For Customer Demographics 
+
+•	What is the customer churned rate?
+•	What is the churn rate for male customers?
+•	What is the churn rate for female customers?
+•	What is the number of the total churned customer?
+•	What is the churned rate by country?
+•	What is the churned rate by age groups?
+
+For Customer Churned Analysis
+
+•	What is the churned rate by credit score?
+•	What is the churned rate by card type?
+•	What is the churned rate by tenure?
+•	What is the churned rate by active/inactive customers?
+
+So the insights and recommendation are shown in the dashboard below:
+
+
 
