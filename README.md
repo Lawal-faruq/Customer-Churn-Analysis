@@ -7,3 +7,4 @@ In the ever-evolving realm of business, understanding and mitigating customer ch
 **Data Preparation**
 
 The dataset was downloaded from Kaggle. I took a glance at the dataset using excel to do a quick review of the data I would be working with. This is just to know how many rows and columns this dataset has, what kind of data are in each column, and whether there are any null values that would help with my analysis. The snapshot of the dataset in excel is shown below:
+![Image1](https://github.com/Lawal-faruq/Customer-Churn-Analysis/assets/107109677/4c8bde22-af67-42ec-84c7-7c6825ce7d94)
